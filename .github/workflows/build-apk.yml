@@ -18,7 +18,7 @@ jobs:
       - name: نصب Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.22.0'   # <--- این عدد رو عوض کن
+          flutter-version: '3.27.2'   # <--- این عدد رو عوض کن
           channel: 'stable'
       
       - name: نصب وابستگی‌ها
